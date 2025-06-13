@@ -1,0 +1,8 @@
+Flask
+flask-cors
+pdfplumber
+pandas
+torch
+transformers
+langdetect
+openpyxl
